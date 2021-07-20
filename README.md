@@ -2,8 +2,7 @@
   Where to buy it: https://makerbase.aliexpress.com/store/group/LCD/1047297_516922172.html
   
   ## Brief introduction
-  ![MKS MINI12864 V3](https://github.com/makerbase-mks/MKS-MINI12864-V3/blob/main/hardware/Image/MKS_MINI12864_V3_CC.png)
-  ![MKS MINI12864 V3](https://github.com/makerbase-mks/MKS-MINI12864-V3/blob/main/hardware/Image/MKS_MINI12864_V3_ZC.png)
+  ![MINI12864](https://github.com/makerbase-mks/MKS-MINI12864-V3/blob/main/hardware/Image/MKS_MINI12864_V3_CC.png)![MINI12864](https://github.com/makerbase-mks/MKS-MINI12864-V3/blob/main/hardware/Image/MKS_MINI12864_V3_ZC.png)
   
   MKS MINI 12864 V3 Smart Display has RGB back light, support change back light color online by lcd, support Robin Nano V2 V3, sgen-l V1 V2, Gen-l. Both Marlin 2.x and Klipper firmware support it
   
@@ -20,8 +19,7 @@
   - Has vertical and side SD slot version
   
   ## PinOut
-  ![pinout](https://github.com/makerbase-mks/MKS-MINI12864-V3/blob/main/hardware/Image/MKS_MINI12864_V3_PINOUT.png)
-  ![EXP1 EXP2](https://github.com/makerbase-mks/MKS-MINI12864-V3/blob/main/hardware/Image/MKS_MINI12864_V3_EXP1_EXP2.png)
+  ![pinout](https://github.com/makerbase-mks/MKS-MINI12864-V3/blob/main/hardware/Image/MKS_MINI12864_V3_PINOUT.png)![EXP1 EXP2](https://github.com/makerbase-mks/MKS-MINI12864-V3/blob/main/hardware/Image/MKS_MINI12864_V3_EXP1_EXP2.png)
   
   ## Connect
   - Connect to MKS board by EXP1 and EXP2
@@ -37,11 +35,15 @@
     - The method 1: Copy **mks_mini_12864_v3.cfg config** to printer.cfg file
 	- The method 2: Copy **mks_mini_12864_v3.cfg file** to same as path with printer.cfg, in printer.cfg add **[include mks_mini_12864_v3.cfg]**
 	
-  ## FAQ
-  - Change color by lcd online: **Lights -> Light Presets**
-  - Gcode set color: 
-    - **M150 R255 G0 U0**  # Red
-	- **M150 R0 G255 U0**  # Green
-	- **M150 R0 G0 U255**  # Blue
-	- Other colors are set according to the value of R G U
+  ## Lights Settings
+  - Malin2.0
+    - Change color by lcd online: **Lights -> Light Presets**
+    - Gcode set color: 
+      - **M150 R255 G0 U0**  # Red
+	  - **M150 R0 G255 U0**  # Green
+	  - **M150 R0 G0 U255**  # Blue
+	  - Other colors are set according to the value of R G U
+	
+  - Klipper
+    - In **mks_mini_12864_v3.cfg** file, set the value of **initial_RED** , **initial_GREEN** , **initial_BLUE** 
   
