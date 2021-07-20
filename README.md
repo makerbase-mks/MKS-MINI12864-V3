@@ -8,6 +8,8 @@
   
   MKS MINI 12864 V3 是一款智能小巧，支持RGB调节背光颜色的显示屏，支持MKS主板以及市面上大多具有EXP1,EXP2的主板；并且Marlin2.0和Klipper固件都已经支持。
   
+  The [sch and size](https://github.com/makerbase-mks/MKS-MINI12864-V3/tree/main/hardware/MKS%20MINI12864%20V3.0_001), refer to hardware path file
+  
   ## Features
   - Support Marlin2.0 and Klipper firmware
   - Support LCD online adjustment of backlight
@@ -26,7 +28,7 @@
   - Connect to MKS board by EXP1 and EXP2
   - Connect to other board by EXP1 and EXP1, but cable need Rotate 180°
   
-  ## Firmware config
+  ## Firmware Config
   - Marlin2.0
     - in Configuration.h file
       - Enable: #define MKS_MINI_12864_V3
