@@ -2,7 +2,7 @@
   Where to buy it: https://makerbase.aliexpress.com/store/group/LCD/1047297_516922172.html
   
   ## Brief introduction
-  ![MINI12864](https://github.com/makerbase-mks/MKS-MINI12864-V3/blob/main/hardware/Image/MKS_MINI12864_V3_CC.png)![MINI12864](https://github.com/makerbase-mks/MKS-MINI12864-V3/blob/main/hardware/Image/MKS_MINI12864_V3_ZC.png)
+  ![MINI12864](https://github.com/makerbase-mks/MKS-MINI12864-V3/blob/main/hardware/Image/MKS_MINI12864_V3.png)
   
   MKS MINI 12864 V3 Smart Display has RGB back light, support change back light color online by lcd, support Robin Nano V2 V3, sgen-l V1 V2, Gen-l. Both Marlin 2.x and Klipper firmware support it
   
@@ -19,7 +19,8 @@
   - Has vertical and side SD slot version
   
   ## PinOut
-  ![pinout](https://github.com/makerbase-mks/MKS-MINI12864-V3/blob/main/hardware/Image/MKS_MINI12864_V3_PINOUT.png)![EXP1 EXP2](https://github.com/makerbase-mks/MKS-MINI12864-V3/blob/main/hardware/Image/MKS_MINI12864_V3_EXP1_EXP2.png)
+  ![pinout](https://github.com/makerbase-mks/MKS-MINI12864-V3/blob/main/hardware/Image/MKS_MINI12864_V3_PINOUT.png)
+  ![EXP1 EXP2](https://github.com/makerbase-mks/MKS-MINI12864-V3/blob/main/hardware/Image/MKS_MINI12864_V3_EXP1_EXP2.png)
   
   ## Connect
   - Connect to MKS board by EXP1 and EXP2
