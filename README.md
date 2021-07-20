@@ -5,6 +5,7 @@
   ![MKS MINI12864 V3](https://github.com/makerbase-mks/MKS-MINI12864-V3/blob/main/hardware/Image/MKS_MINI12864_V3_CC.png)
   ![MKS MINI12864 V3](https://github.com/makerbase-mks/MKS-MINI12864-V3/blob/main/hardware/Image/MKS_MINI12864_V3_ZC.png)
   MKS MINI 12864 V3 Smart Display has RGB back light, support change back light color online by lcd, support Robin Nano V2 V3, sgen-l V1 V2, Gen-l. Both Marlin 2.x and Klipper firmware support it
+  
   MKS Mini 12864 V3 是一款智能小巧，支持RGB调节背光颜色的显示屏，支持MKS主板以及市面上大多具有EXP1,EXP2的主板；并能在Marlin2.0和Klipper固件使用它
   
   ## Features
