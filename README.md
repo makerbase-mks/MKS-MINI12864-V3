@@ -50,3 +50,6 @@
   - Klipper
     - In **mks_mini_12864_v3.cfg** file, set the value of **initial_RED** , **initial_GREEN** , **initial_BLUE** 
   
+  ## Other
+  - [mks_mini_12864_v3.cfg](https://github.com/makerbase-mks/Klipper-for-MKS-Boards/blob/main/MKS%20Lcd%20Config/mks_mini_12864_v3.cfg)
+  
