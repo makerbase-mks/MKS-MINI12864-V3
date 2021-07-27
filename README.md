@@ -14,7 +14,7 @@
   | ITEMS      |  MKS MINI12864 V3  | MKS MINI12864 V1.x/V2.x |
   |------------|--------------------|-------------------------|
   | LCD Driver |   ST7567 | ST7565R |
-  | RGB LED | Support | No support |
+  | RGB LED | Support(Driver: WS2811) | No support |
   | BackLights | RGB LED backlight | White LED |
   | Backlight adjustment | Online by LCD or M150 R* G* U* | No support |
   | Logic level | 3.3V or 5V | 3.3V or 5V |
