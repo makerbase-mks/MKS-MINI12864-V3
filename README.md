@@ -10,6 +10,18 @@
   
   The [sch and size](https://github.com/makerbase-mks/MKS-MINI12864-V3/tree/main/hardware/MKS%20MINI12864%20V3.0_001), refer to hardware path file
   
+  ## Compare between MKS MINI12864 V3 and V1.x/V2.x
+  | ITEMS      |  MKS MINI12864 V3  | MKS MINI12864 V1.x/V2.x |
+  |------------|--------------------|-------------------------|
+  | LCD Driver |   ST7567 | ST7565R |
+  | RGB LED | Support | No support |
+  | BackLights | RGB LED backlight | White LED |
+  | Backlight adjustment method | Online by LCD or M150 R* G* U* | No support |
+  | Logic level | 3.3V or 5V | 3.3V or 5V |
+  | firmware settings | Enable: MKS_MINI_12864_V3 and NEOPIXEL_PIN | Enable: MKS_MINI_12864 |
+  | Text display | Black background, white text | White background, black text |
+  
+  
   ## Features
   - Support Marlin2.0 and Klipper firmware
   - Support LCD online adjustment of backlight
