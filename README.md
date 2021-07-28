@@ -18,7 +18,7 @@
   | BackLights | RGB LED backlight | White LED |
   | Backlight adjustment | Online by LCD or M150 R* G* U* | No support |
   | Logic level | 3.3V or 5V | 3.3V or 5V |
-  | firmware settings | Enable: MKS_MINI_12864_V3 and NEOPIXEL_PIN | Enable: MKS_MINI_12864 |
+  | Firmware settings | Enable: MKS_MINI_12864_V3 and NEOPIXEL_LED | Enable: MKS_MINI_12864 |
   | Text display | Black background, white text | White background, black text |
   
   
