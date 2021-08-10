@@ -49,7 +49,9 @@
   - Klipper firmware
     - The method 1: Copy **mks_mini_12864_v3.cfg config** to printer.cfg file
 	- The method 2: Copy **mks_mini_12864_v3.cfg file** to same as path with printer.cfg, in printer.cfg add **[include mks_mini_12864_v3.cfg]**
-	
+  
+  - Tips: If you use FYSTC Mini12864 or BTT mini12864 on MKS board, same method as MKS MINI12864 V3.
+  
   ## Lights Settings
   - Malin2.0
     - Change color by lcd online: **Lights -> Light Presets**
