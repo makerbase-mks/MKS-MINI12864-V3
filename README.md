@@ -67,3 +67,5 @@
   ## Other
   - [mks_mini_12864_v3.cfg](https://github.com/makerbase-mks/Klipper-for-MKS-Boards/blob/main/MKS%20Lcd%20Config/mks_mini_12864_v3.cfg)
   
+  ## FAQ
+  - About how to use the FYSETC Mini 12864 v2.1, BTT Mini 12864 v1.0 on Robin E3/E3D board. [Click here](https://github.com/makerbase-mks/MKS-Robin-E3-E3D/wiki/FYSETC_BTT_MINI12864)
