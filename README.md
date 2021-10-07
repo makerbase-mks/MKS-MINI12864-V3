@@ -1,5 +1,5 @@
 # MKS-MINI12864-V3
-  Where to buy it: https://www.aliexpress.com/store/group/LCD/1047297_516922172.html?
+  Where to buy it: https://www.aliexpress.com/store/group/LCD/1047297_516922172.html?spm=a2g0o.store_pc_groupList.pcShopHead_8325768.1_2_1
   
   ## Brief introduction
   ![MINI12864](https://github.com/makerbase-mks/MKS-MINI12864-V3/blob/main/hardware/Image/MKS_MINI12864_V3.png)
