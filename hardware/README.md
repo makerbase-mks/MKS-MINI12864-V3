@@ -1,5 +1,18 @@
 # MKS-MINI12864-V3
 # Hardware
+## V3.0_002 Version include
+- MKS MINI12864 V3.0_002 TOP.pdf
+- MKS MINI12864 V3.0_002 BOTTOM.pdf
+- MKS MINI12864 V3.0_002 SIZE.pdf
+- MKS MINI12864 V3.0_002 SIZE侧插.dxf  CAD file
+- MKS MINI12864 V3.0_002 SIZE正插.dxf  CAD file
+- MKS MINI12864 V3.0_002 SCH.pdf
+
+Change Log:
+- Add interface to new screen 
+- 001 change to 002
+
+
 ## V3.0_001 Version include
 - MKS MINI12864 V3.0_001 TOP.pdf
 - MKS MINI12864 V3.0_001 BOTTOM.pdf
