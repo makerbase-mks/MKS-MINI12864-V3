@@ -69,3 +69,6 @@
   
   ## FAQ
   - About how to use the FYSETC Mini 12864 v2.1, BTT Mini 12864 v1.0 on Robin E3/E3D board. [Click here](https://github.com/makerbase-mks/MKS-Robin-E3-E3D/wiki/FYSETC_BTT_MINI12864)
+![mks_link](https://user-images.githubusercontent.com/12979070/149611782-ecf3daa4-fee4-4f17-bf10-15dfc9dc3c75.png)
+
+
